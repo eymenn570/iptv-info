@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ISMAYILLITV.az" tvg-name="Ismayıllı tv" group-title="AZERBAYCAN" tvg-logo="https://vipotv.com/wp-content/uploads/2026/01/ismayilli-tv-vipotv-izle.png", Ismayilli TV
+https://a8.radyotelekom.com.tr:3738/stream/play.m3u8,
+#EXTINF:-1 tvg-id="Metropoltv.az" tvg-name="Metropol TV" group-title="TÜRKİYE" tvg-logo="https://vipotv.com/wp-content/uploads/2025/09/metropol-tv-izle.png", Metropol TV
+https://edge2.taksimbilisim.com/metropoltv/smil/metropoltv/bant1/chunks.m3u8
